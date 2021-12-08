@@ -15,6 +15,6 @@
 ### directory of powerpoint: games\pingpong\ml\乒乓球.pptx
 ## snake
 ### 先從games\snake\ml\H24081163_陳詠翰_HW3.zip 解壓縮在同一層資料夾
-### 用機器學習的方式玩貪吃蛇 (做的不是很好)
+### 用機器學習的方式玩貪吃蛇 
 ### 指令 MLGame.py -i ml_play.py snake
 ### directory of powerpoint: games\snake\ml\作業三.pptx
